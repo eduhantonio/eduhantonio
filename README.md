@@ -4,10 +4,10 @@
 <div>  
     <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=eduhags&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   
+  - 😉 Pronomes: Ele/Dele
   - 💡 Futuro Cientistade Dados, Engenheiro e Empreendedor
   - 📜 Experiência em: HTML5, CSS3 e JavaScript
   - 📚 Estudando: Python, SQL e Ciência de Dados
-  - 😉 Pronomes: Ele/Dele
   - 📌 Email para Contato: eduardo.antoniogds@gmail.com
   - 🎧 Aprecio a arte, gosto de jogar e escrever
   
