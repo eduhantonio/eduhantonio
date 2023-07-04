@@ -1,4 +1,4 @@
-### Salvê DEVs, me chamo Eduardo e sou um apaixonado por Tecnologia 🌹
+### Salve DEVs, me chamo Eduardo Antônio e sou um apaixonado por Tecnologia 🌹
 ##
 
 <div>  
