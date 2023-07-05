@@ -6,7 +6,7 @@
   
   - 😉 Pronomes: Ele/Dele
   - 💡 Futuro Criador de Conteúdo e Empreendedor
-  - 📜 Experiência em: HTML5, CSS3 e JavaScript
+  - 📜 Experiência em Front-End e Data Science
   - 📚 Estudando Análise e Desenvolvimento de Sistemas
   - 📌 Email para Contato: eduardo.antoniogds@gmail.com
   - 🎧 Gosto de Escrever Poemas e Jogar
