@@ -6,6 +6,7 @@
 <img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/>
 
   - 📌 Criador de Conteúdo e Empreendedor
+  - 🍃 Experiência em Programação e Gestão
   - 📜 Cursando Análise e Desenvolvimento de Sistemas
   - 🎧 Gosto de estudar, videogames e escrever poemas
   - 📭 Email para Contato: eduardo.antoniogds@gmail.com
@@ -13,16 +14,9 @@
  
 </div>
 
-<br>
-
 ## 🎧 Principais Linguagens & Skills
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-ff0022?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Css-0091ff?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python-252F40?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MySQL-00ff62?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-
-<img src="meu-background.png">
-
-
-
