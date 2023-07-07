@@ -11,10 +11,11 @@
   - 📌 Empreendedor em Programação e Tecnologia 
   - 💎 Desenvolvedor e Analista de Software
   - 🌙 Gosto de jogos & escrever poemas
-  - 📭 Email: eduardo.antoniogds@gmail.com
   - 🍃 Vidi Conato Sum Vici
  
 </div>
+
+<br><br>
 
 ##
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-ff0022?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
