@@ -2,39 +2,22 @@
 ##
 
 <div>  
-    <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=eduhags&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  
-  - 😉 Pronomes: Ele/Dele
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=813dd1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Salve+DEV's+aqui+é+o+Edu!;Boas+Vindas+ao+meu+GitHub+🥀;Espero+que+goste+do+meu+trabalho+😉)](https://git.io/typing-svg)
+
   - 💡 Futuro Criador de Conteúdo e Empreendedor
   - 📜 Experiência em Front-End e Data Science
   - 📚 Estudando Análise e Desenvolvimento de Sistemas
-  - 📌 Email para Contato: eduardo.antoniogds@gmail.com
   - 🎧 Gosto de Escrever Poemas e Jogar
+  - 📌 Email para Contato: eduardo.antoniogds@gmail.com
+  - 🌙 Saiba mais sobre em: https://beacons.ai/eduhags
   
 </div>
 
 ##
 
-<H1> Redes Sociais para Interação ⚡ </H1>
-
-<a href="https://www.youtube.com/channel/UCOMT2b7gWZPhVcfjHI5MsYQ" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-<a href="https://www.instagram.com/eduh.ags/" target="_blank"> 
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href="https://www.twitch.tv/pavanniz" target="_blank">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
-<a href="https://discord.gg/Vm26UrDm" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-<a href="https://www.linkedin.com/in/eduardo-ant%C3%B4nio-gon%C3%A7alves-da-silva-b8b84b1b8/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<br>
-
-<H1> Principais linguagens de Programação 💻 </H1>
+<H1> 💻 Principais linguagens de Programação </H1>
 
 <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="left" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -47,3 +30,6 @@
 <br><br>
 
 <img src="meu-background.png">
+
+
+
