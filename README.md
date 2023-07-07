@@ -3,13 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Salve+DEVs+eu+me+chamo+Eduardo+Antônio+🤙;Boas+vindas+ao+meu+GitHub+🥀;)](https://git.io/typing-svg)
 
+<br>
+
 <img align="right" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/>
 
-  - 📌 Empreendedor em Ciência e Tecnologia
-  - 🎧 Criador de Conteúdo em Programação
+  - 🎧 Criador de Conteúdo Digital
+  - 📌 Empreendedor em Programação e Tecnologia 
   - 💎 Desenvolvedor e Analista de Software
   - 🌙 Gosto de jogos & escrever poemas
   - 📭 Email: eduardo.antoniogds@gmail.com
+  - 🍃 Mais em: https://beacons.ai/eduhags
  
 </div>
 
