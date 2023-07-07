@@ -13,7 +13,7 @@
   - 🌙 Saiba mais sobre em: https://beacons.ai/eduhags
  
 </div>
-
+<br>
 ## Principais Linguagens de Programação
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python-252F40?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-ffbf00?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
