@@ -16,7 +16,7 @@
 
 <br>
 
-## 🎧 Principais Linguagens de Programação
+## 🎧 Principais Linguagens & Skills
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-ff0022?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Css-0091ff?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python-252F40?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
