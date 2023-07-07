@@ -23,6 +23,8 @@
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Css-0277BD?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MySQL-000282?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 
+<br>
+
 ## Entre em Contato
  <a href="https://www.youtube.com/channel/UCOMT2b7gWZPhVcfjHI5MsYQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/eduh.ags/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
