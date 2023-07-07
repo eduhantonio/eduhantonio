@@ -2,7 +2,7 @@
 ##
 
 <div>  
-    <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=eduhags&show_icons=true&theme=jolly&include_all_commits=true&count_private=tru"/>
+    <img align="right" height="163em" src="https://github-readme-stats.vercel.app/api?username=eduhags&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   
   - 😉 Pronomes: Ele/Dele
   - 💡 Futuro Criador de Conteúdo e Empreendedor
