@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Salve+DEVs+eu+me+chamo+Eduardo+Antônio+🤙;Boas+vindas+ao+meu+GitHub+🥀;)](https://git.io/typing-svg)
 
-<img align="right" height="158em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/>
+<img align="right" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/>
 
   - 📌 Criador de Conteúdo e Empreendedor
   - 🍃 Experiência em Programação e Gestão
