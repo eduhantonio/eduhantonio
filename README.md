@@ -5,12 +5,11 @@
 
 <img align="right" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/>
 
-  - 📌 Criador de Conteúdo e Empreendedor
-  - 🍃 Experiência em Programação e Gestão
-  - 📜 Cursando Análise e Desenvolvimento de Sistemas
-  - 🎧 Gosto de estudar, videogames e escrever poemas
-  - 📭 Email para Contato: eduardo.antoniogds@gmail.com
-  - 🌙 Mais sobre mim em: https://beacons.ai/eduhags
+  - 📌 Empreendedor em Ciência e Tecnologia
+  - 🎧 Criador de Conteúdo em Programação
+  - 💎 Desenvolvedor e Analista de Software
+  - 🌙 Gosto de jogos & escrever poemas
+  - 📭 Email: eduardo.antoniogds@gmail.com
  
 </div>
 
