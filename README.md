@@ -9,7 +9,7 @@
   - 📌 Apaixonado em Empreendedorismo & Inovação
   - 💎 Desenvolvedor e Analista de Software
   - 🍃 Entusiasta em Programação & Ciências
-  - 🌙 Gosto de jogar, escrever poemas e espaço
+  - 🌙 Gosto de jogar, escrever poemas e astronomia
   - 📭 Email para Contato: eduardo.antoniogds@gmail.com
 
 </div>
