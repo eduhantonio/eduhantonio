@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Salve+DEVs+eu+me+chamo+Eduardo+Antônio+🤙;Boas+vindas+ao+meu+GitHub+🥀;)](https://git.io/typing-svg)
 
-## 
-
-“Nada, na minha opinião, é uma prova melhor de uma mente bem organizada do que a capacidade de um homem 
-de parar exatamente onde está e passar algum tempo em sua própria companhia.” – Sêneca 🍁
+##  
+### “Nada, na minha opinião, é uma prova melhor de uma mente bem organizada do que a capacidade de um homem de parar exatamente onde está e passar algum tempo em sua própria companhia.” – Sêneca 🍁
 
 <div style="display: inline_block">
 
