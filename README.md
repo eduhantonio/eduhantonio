@@ -6,8 +6,6 @@
 ### “Nada, na minha opinião, é uma prova melhor de uma mente bem organizada do que a capacidade de um homem de parar exatamente onde está e passar algum tempo em sua própria companhia.” – Sêneca 🍁
 
 <div style="display: inline_block">
-
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhags&theme=midnight-purple&hide_border=false&background=0d11175c"/><br>
  
 <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
