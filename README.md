@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+my+name+is+Eduardo+Antonio;Welcomo+to+my+GitHub!;I'm+a+DS+and+ML+Student)](https://git.io/typing-svg)
 
-### "Nothing, in my opinion, is a better proof of a well-organized mind than a man's ability to stop exactly where he is and spend some time in his own company." - Seneca 🍁
+### "Don't be afraid to dream even in the ashes, even the stars were dust once" - Eduardo Antonio 🌌
 
 <br>
 
