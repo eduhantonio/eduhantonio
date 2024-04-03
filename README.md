@@ -5,12 +5,12 @@
 <br>
 
 ## Principais linguagens de programação 🖥
-![My Technologies](https://skillicons.dev/icons?i=html,css,cs,py,arduino,java)
+![My Technologies](https://skillicons.dev/icons?i=html,css,py,arduino,java)
 
 <br>
 
 ## Ferramentas e conhecimentos 📚
-![My Technologies](https://skillicons.dev/icons?i=git,github,discord,vscode,visualstudio,obs)
+![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,obs)
 
 <br>
  
