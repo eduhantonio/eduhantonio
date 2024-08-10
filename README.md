@@ -7,12 +7,10 @@
 ## Principais linguagens de programação 🖥
 ![My Technologies](https://skillicons.dev/icons?i=html,css,py,arduino,java)
 
-<br>
 
 ## Ferramentas e conhecimentos 📚
 ![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,obs)
 
-<br>
  
 <div> 
 
