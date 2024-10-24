@@ -4,17 +4,17 @@
 
 <br>
 
-## >> Main programming languages  🖥
+# >> Main programming languages  🖥
 ![My Technologies](https://skillicons.dev/icons?i=html,css,py,arduino,java,androidstudio)
 
 <br>
 
-## >> Tools and Knowledge 📚
+# >> Tools and Knowledge 📚
 ![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,obs)
 
 <br>
 
-## >> Social Networks 📞
+# >> Social Networks 📞
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff002b?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/eduh.antonio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ffc400?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduhantonio/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0091ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
