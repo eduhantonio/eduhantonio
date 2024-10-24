@@ -2,11 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff084b&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!,+meu+nome+é+Eduardo+Antonio;Boas-vindas+ao+meu+GitHub!;Hello+World!,+my+name+is+Eduardo+Antonio;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+<br>
+
 ## >> Main programming languages  🖥
 ![My Technologies](https://skillicons.dev/icons?i=html,css,py,arduino,java,androidstudio)
 
+<br>
+
 ## >> Tools and Knowledge 📚
 ![My Technologies](https://skillicons.dev/icons?i=github,discord,vscode,visualstudio,obs)
+
+<br>
 
 ## >> Social Networks 📞
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff002b?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
