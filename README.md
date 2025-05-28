@@ -22,17 +22,6 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,django,spring,figma,eclipse,docker,linux,windows" />
 <br />
 
-## 🌐 Redes Sociais
-
-  <a href="https://www.instagram.com/eduh.antonio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduhantonio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-<br/><br />
-
 ## 📊 GitHub Stats
 
 <p align="center">
